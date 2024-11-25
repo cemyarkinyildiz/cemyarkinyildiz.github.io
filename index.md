@@ -6,8 +6,6 @@ description: "Homepage"
 permalink: /
 ---
 
-Deneme için bir commit!
-
 <div style="text-align: center;">
   <a href="https://github.com/cemyarkinyildiz/" target="_blank" class="image-link"><img src="../../assets/images/github.png" style="height:21px;" alt="Github"></a>
   &nbsp;&nbsp;&nbsp;

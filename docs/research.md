@@ -27,15 +27,3 @@ I work on _inventory control_ under _demand and supply uncertainty_. These decis
 My research involves combinatorial optimization approaches in numerous subdomains of data science, including **supervised learning** and **time series analysis**. In addition, I have applied some of these techniques to the toxicological evaluation of nanoparticles and interpreting EEG data. 
 
 ---
-## Funding
-
-### Grants in Progress
-
-* **PI**,
-_Coordination and Management of Uncertainty in Refugee Camp Inventory Operations_,
-TUBITAK ARDEB 1001.
-* **PI**,
-_Industry 4.0 Applications in Flat Steel Manufacturing_,
-TUBITAK BIDEB 2244, co-PI: O. Ozener.
-
-### Completed

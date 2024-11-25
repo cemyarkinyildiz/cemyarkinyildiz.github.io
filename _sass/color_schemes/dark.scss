@@ -1,21 +1,21 @@
 // Background and Border Colors
-$body-background-color: $grey-dk-300; // Keep dark but balanced
-$sidebar-color: darken($grey-dk-300, 5%); // Slightly darker than the body for distinction
-$border-color: lighten($grey-dk-200, 10%); // Slightly lighter for subtle separation
+$body-background-color: #1a1a2e; // Deep navy for a modern dark theme
+$sidebar-color: #16213e; // Slightly darker for sidebar distinction
+$border-color: #0f3460; // Crisp blue for clean separations
 
 // Text Colors
-$body-text-color: lighten($grey-lt-300, 10%); // Brighter text for better readability
-$body-heading-color: $grey-lt-000; // Keep headings bright for prominence
-$nav-child-link-color: lighten($grey-dk-000, 5%); // Slightly lighter than dark for subtle focus
-$search-result-preview-color: $grey-dk-000; // Maintain for neutral visibility
+$body-text-color: #eaeaea; // Light grey for readability against dark background
+$body-heading-color: #ffffff; // Pure white for prominence
+$nav-child-link-color: #89c4f4; // Soft blue for accessible navigation links
+$search-result-preview-color: #dcdde1; // Neutral grey for subtlety
 
 // Link and Button Colors
-$link-color: lighten($blue-000, 10%); // Brighter for clear visibility
-$btn-primary-color: darken($blue-200, 5%); // Add slight depth for action buttons
-$base-button-color: lighten($grey-dk-250, 5%); // Slightly lighter for consistent button styling
+$link-color: #4facfe; // Vibrant sky blue for clickable elements
+$btn-primary-color: #21e6c1; // Bright teal for emphasis
+$base-button-color: #273c75; // Muted blue for base button styling
 
 // Miscellaneous Colors
-$code-background-color: darken($grey-dk-250, 5%); // Slightly darker for text/code contrast
-$search-background-color: lighten($grey-dk-250, 3%); // Softer for input fields
-$table-background-color: lighten($grey-dk-250, 5%); // Subtle variation for tables
-$feedback-color: darken($sidebar-color, 8%); // More distinct for feedback visibility
+$code-background-color: #2f3640; // Dark grey for code readability
+$search-background-color: #1e272e; // Slightly darker grey for search inputs
+$table-background-color: #243447; // Dark teal-grey for tables
+$feedback-color: lighten($sidebar-color, 5%); // Subtle, harmonious adjustment for feedback
