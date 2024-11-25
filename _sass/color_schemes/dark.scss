@@ -1,17 +1,21 @@
-$body-background-color: $grey-dk-300;
-$sidebar-color: $grey-dk-300;
-$border-color: $grey-dk-200;
+// Background and Border Colors
+$body-background-color: $grey-dk-300; // Keep dark but balanced
+$sidebar-color: darken($grey-dk-300, 5%); // Slightly darker than the body for distinction
+$border-color: lighten($grey-dk-200, 10%); // Slightly lighter for subtle separation
 
-$body-text-color: $grey-lt-300;
-$body-heading-color: $grey-lt-000;
-$nav-child-link-color: $grey-dk-000;
-$search-result-preview-color: $grey-dk-000;
+// Text Colors
+$body-text-color: lighten($grey-lt-300, 10%); // Brighter text for better readability
+$body-heading-color: $grey-lt-000; // Keep headings bright for prominence
+$nav-child-link-color: lighten($grey-dk-000, 5%); // Slightly lighter than dark for subtle focus
+$search-result-preview-color: $grey-dk-000; // Maintain for neutral visibility
 
-$link-color: $blue-000;
-$btn-primary-color: $blue-200;
-$base-button-color: $grey-dk-250;
+// Link and Button Colors
+$link-color: lighten($blue-000, 10%); // Brighter for clear visibility
+$btn-primary-color: darken($blue-200, 5%); // Add slight depth for action buttons
+$base-button-color: lighten($grey-dk-250, 5%); // Slightly lighter for consistent button styling
 
-$code-background-color: $grey-dk-250;
-$search-background-color: $grey-dk-250;
-$table-background-color: $grey-dk-250;
-$feedback-color: darken($sidebar-color, 3%);
+// Miscellaneous Colors
+$code-background-color: darken($grey-dk-250, 5%); // Slightly darker for text/code contrast
+$search-background-color: lighten($grey-dk-250, 3%); // Softer for input fields
+$table-background-color: lighten($grey-dk-250, 5%); // Subtle variation for tables
+$feedback-color: darken($sidebar-color, 8%); // More distinct for feedback visibility
